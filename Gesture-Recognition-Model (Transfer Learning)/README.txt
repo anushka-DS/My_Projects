@@ -4,7 +4,10 @@ PG Diploma in Machine Learning and AI from IIIT Bangalore | Upgrad
 
 Developed by:
 Anushka Bajpai
+<<<<<<< HEAD
 
+=======
+>>>>>>> 372145e396ede816b8fa8cc3c4fe17c55c21ad61
 
 
 #############################################################################
